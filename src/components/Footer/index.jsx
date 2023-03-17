@@ -70,7 +70,7 @@ export const Footer = ({ children, link = "/" }) => {
             <h3>Atendimento</h3>
             <p>Seg - Sex: 07:00 - 18:00</p>
             <p>Sáb: até 12h - Dom: Fechado</p>
-            <p><Link href="https://eletrosantaclara.vercel.app/pdp">
+            <p><Link href="">
                   <a target="_blank">
                   Política de Privacidade  
                   </a>
@@ -80,7 +80,7 @@ export const Footer = ({ children, link = "/" }) => {
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Eletro Santa Clara. Todos os direitos reservados.  <Link href="https://agenciasetfocus.vercel.app/">
+        2023 © QualitySeg Consultoria - Todos os direitos reservados.  <Link href="https://agenciasetfocus.vercel.app/">
                   <a target="_blank">
                   Desenvolvido por SetFocus Brasil  
                   </a>
