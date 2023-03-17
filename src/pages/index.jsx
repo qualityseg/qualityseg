@@ -35,14 +35,13 @@ export default function Home() {
         <title>Home | Eletro Santa Clara</title>
         <meta
           name="description"
-          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="QualitySeg Consultoria - Engenharia de Segurança e Medicinal do Trabalho"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
-          "
+          content="medicina ocupacional,medicina do trabalho,e-social,exames admissionais"
         />
-        <meta name="author" content="Santa Clara" />
+        <meta name="author" content="QualitySeg" />
         
                
       </Head>
