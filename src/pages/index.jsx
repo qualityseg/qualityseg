@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eletro Santa Clara</title>
+        <title>Home | QualitySeg Consultoria - Engenharia de Segurança e Medicina do Trabalho</title>
         <meta
           name="description"
           content="QualitySeg Consultoria - Engenharia de Segurança e Medicinal do Trabalho"
