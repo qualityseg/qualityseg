@@ -19,7 +19,7 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eletro Santa Clara - Loja 1</h3>
+            <h3>QualitySeg Lençóis Paulista - Matriz</h3>
             <ul>
               <li>(14) 3264-3737</li>
               <li>vendas1@qualitysegconsultoria.com.br</li>
@@ -61,7 +61,7 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Eletro Santa Clara - loja 2</h3>
+            <h3>QualitySeg Ribas do Rio Pardo</h3>
             <p> Rua Pastor Natalino Paulino, nº. 260, Vila Santa Cecília</p>
             <p>Fone 14 3269.1717 - 14 98118.8248</p>
           </div>
