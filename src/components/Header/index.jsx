@@ -41,7 +41,7 @@ export const Header = () => {
                 src="/icons/logo_transparente.png"
                 alt="Eletro Santa Clara"
                 width="300"
-                height="90"
+                height="110"
               />
             </a>
           </Link>
