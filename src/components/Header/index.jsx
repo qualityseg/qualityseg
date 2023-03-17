@@ -63,18 +63,18 @@ export const Header = () => {
               <a>Home</a>
             </Link>
             <Link href="/produtos">
-              <a>Produtos</a>
+              <a>Unidades</a>
             </Link>
             <Link href="/empresa">
               <a>A Empresa</a>
             </Link>
             
             <Link href="/vendedores">
-              <a>Contato</a>
+              <a>RH</a>
             </Link>
 
             <Link href="/orcamento">
-              <a>Orçamento</a>
+              <a>E-Social</a>
             </Link>
  
           </nav>
@@ -83,10 +83,10 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/5514981189197"
+              link="https://wa.me/5514997605773"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-              Fale com nossos vendedores
+              Fale com um Consultor
             </Button>
           </div>
         </div>
@@ -127,8 +127,8 @@ export const Header = () => {
               </Link>
             </li>
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/5514981189197">
-                <a target="_blank">Fale com um vendedor</a>
+              <Link href="https://wa.me/5514997605773">
+                <a target="_blank">Fale com um Consultor</a>
               </Link>
             </li>
           </ul>
