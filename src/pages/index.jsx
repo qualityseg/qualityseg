@@ -122,7 +122,7 @@ sua empresa e colaboradores.
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>A Quality Seg é uma empresa especializada em Engenharia de Segurança e Medicina do trabalho com atuação desde o ano de 2008,</strong2> <strong> trabalhando e desenvolvendo política sustentável em gestão ocupacional.</strong>
+              <strong2>Atuamos desde o ano de 2008,</strong2> <strong> trabalhando e desenvolvendo política sustentável em gestão ocupacional.</strong>
             </h3>
             <p>
             
