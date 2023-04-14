@@ -48,7 +48,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
-            <Link href="https://app.powerbi.com/view?r=eyJrIjoiMmYzMjhkZDktN2ZjNi00ZDkxLWIwNzctMGFkYjI4MzkyYWUzIiwidCI6IjBhZDFmNWJiLWU3NGItNDdiYi04YmU5LTBkNGUxYzNlZjljZiJ9" >
+            <Link href="https://x.gd/odAwb" >
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
