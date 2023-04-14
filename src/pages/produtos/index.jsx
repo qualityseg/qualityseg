@@ -8,6 +8,8 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
+import Iframe from './Iframe';
+
 
 export default function Tratamentos() {
   useEffect(() => {
@@ -16,7 +18,7 @@ export default function Tratamentos() {
   return (
     <>
       <Head>
-        <title>Produtos | Materiais Elétricos - Eletro Santa Clara</title>
+        <title>Controle de BI</title>
         <meta
           name="description"
           content="Central de Controle BI"
@@ -25,7 +27,7 @@ export default function Tratamentos() {
           name="keywords"
           content=" "
         />
-        <meta name="author" content=" Eletro Santa Clara" />
+        <meta name="author" content=" Quality Seg Consultoria" />
       </Head>
 
       <div>
@@ -45,6 +47,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
+            <Iframe    />
             
             </p>
           </div>
