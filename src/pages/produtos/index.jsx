@@ -36,6 +36,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
         <Link href="https://www.instagram.com/qualitysegconsultoria/">
+        <a target="_blank">
           <MyImage
             src="/images/controlefrota.jpg"
             alt="Controle de uso da frota"
@@ -43,7 +44,9 @@ export default function Tratamentos() {
             height="279"
             left
           />
+            </a>
           </Link>
+
           <h3>Controle de uso da frota</h3>
           <div className={styles.description}>
             <p>
