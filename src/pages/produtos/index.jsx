@@ -41,10 +41,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Chuveiros</h3>
+          <h3>Controle de uso da frota</h3>
           <div className={styles.description}>
             <p>
-            Para transformar os seus banhos em momentos de puro relaxamento e descanso dispomos de toda linha de chuveiros e duchas.
+            <iframe title="Controle de uso dos Veiculos" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmYzMjhkZDktN2ZjNi00ZDkxLWIwNzctMGFkYjI4MzkyYWUzIiwidCI6IjBhZDFmNWJiLWU3NGItNDdiYi04YmU5LTBkNGUxYzNlZjljZiJ9" frameborder="0" allowFullScreen="true"></iframe>
             </p>
           </div>
         </div>
