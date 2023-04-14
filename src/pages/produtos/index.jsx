@@ -9,6 +9,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 import Iframe from './Iframe';
+import React from 'react';
 
 
 export default function Tratamentos() {
@@ -47,7 +48,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
-            <Iframe    />
+            <iframe title="Controle de uso dos Veiculos" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmYzMjhkZDktN2ZjNi00ZDkxLWIwNzctMGFkYjI4MzkyYWUzIiwidCI6IjBhZDFmNWJiLWU3NGItNDdiYi04YmU5LTBkNGUxYzNlZjljZiJ9" frameborder="0" allowFullScreen="true"></iframe>
             
             </p>
           </div>
