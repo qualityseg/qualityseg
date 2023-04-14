@@ -48,7 +48,7 @@ export default function Tratamentos() {
             
             <Link href="https://www.instagram.com/qualitysegconsultoria/">
                   <a target="_blank">
-                  Controle de uso da frota
+                  <p>Confira o BI   </p>
                     <Image
                       src="/images/frota.png"
                       alt="Logo"
