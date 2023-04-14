@@ -26,7 +26,7 @@ export default function Tratamentos() {
           name="keywords"
           content=" "
         />
-        <meta name="author" content=" Eletro Santa Clara" />
+        <meta name="author" content=" Quality Seg" />
       </Head>
 
       <div>
@@ -49,7 +49,7 @@ export default function Tratamentos() {
             <Link href="https://www.instagram.com/qualitysegconsultoria/">
                   <a target="_blank">
                     <Image
-                      src="/icons/instaFooter.svg"
+                      src="/images/frota.png"
                       alt="Logo"
                       width="30"
                       height="30"
