@@ -45,6 +45,16 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
+            <Link href="https://www.instagram.com/qualitysegconsultoria/">
+                  <a target="_blank">
+                    <Image
+                      src="/icons/instaFooter.svg"
+                      alt="Logo"
+                      width="30"
+                      height="30"
+                    />
+                  </a>
+                </Link>
             
             </p>
           </div>
