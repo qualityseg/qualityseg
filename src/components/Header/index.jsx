@@ -39,7 +39,7 @@ export const Header = () => {
             <a>
               <Image
                 src="/icons/logo_transparente.png"
-                alt="Eletro Santa Clara"
+                alt="QualitySeg Cursos EAD"
                 width="353"
                 height="86"
               />
@@ -62,7 +62,7 @@ export const Header = () => {
             <Link href="/">
               <a>Home</a>
             </Link>
-            <Link href="/produtos">
+            <Link href="/cursos_ead">
               <a>Treinamentos EAD</a>
             </Link>
             <Link href="/empresa">
@@ -105,7 +105,7 @@ export const Header = () => {
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/produtos">
+              <Link href="/cursos_ead">
                 <a>produtos</a>
               </Link>
             </li>
