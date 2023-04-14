@@ -48,7 +48,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
-            <Link href="https://x.gd/odAwb" >
+            <Link href="https://x.gd/odAwb/">
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
