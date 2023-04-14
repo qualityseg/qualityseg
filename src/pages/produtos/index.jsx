@@ -9,7 +9,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 
-
 export default function Tratamentos() {
   useEffect(() => {
     Aos.init({ duration: 1000 });
@@ -17,7 +16,7 @@ export default function Tratamentos() {
   return (
     <>
       <Head>
-        <title>Controle de BI</title>
+        <title>Controle de Frota</title>
         <meta
           name="description"
           content="Central de Controle BI"
@@ -26,7 +25,7 @@ export default function Tratamentos() {
           name="keywords"
           content=" "
         />
-        <meta name="author" content=" Quality Seg Consultoria" />
+        <meta name="author" content=" Eletro Santa Clara" />
       </Head>
 
       <div>
@@ -46,16 +45,6 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
-            <Link href="https://x.gd/odAwb/">
-                  <a target="_blank">
-                    <Image
-                      src="/icons/instaFooter.svg"
-                      alt="Logo"
-                      width="30"
-                      height="30"
-                    />
-                  </a>
-                </Link>
             
             </p>
           </div>
