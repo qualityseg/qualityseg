@@ -48,7 +48,16 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
             
-            <iframe title="Controle de uso dos Veiculos" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmYzMjhkZDktN2ZjNi00ZDkxLWIwNzctMGFkYjI4MzkyYWUzIiwidCI6IjBhZDFmNWJiLWU3NGItNDdiYi04YmU5LTBkNGUxYzNlZjljZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+            <Link href="https://app.powerbi.com/view?r=eyJrIjoiMmYzMjhkZDktN2ZjNi00ZDkxLWIwNzctMGFkYjI4MzkyYWUzIiwidCI6IjBhZDFmNWJiLWU3NGItNDdiYi04YmU5LTBkNGUxYzNlZjljZiJ9">
+                  <a target="_blank">
+                    <Image
+                      src="/icons/instaFooter.svg"
+                      alt="Logo"
+                      width="30"
+                      height="30"
+                    />
+                  </a>
+                </Link>
             
             </p>
           </div>
