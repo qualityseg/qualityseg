@@ -63,18 +63,18 @@ export const Header = () => {
               <a>Home</a>
             </Link>
             <Link href="/produtos">
-              <a>Unidades</a>
+              <a>Treinamentos EAD</a>
             </Link>
             <Link href="/empresa">
-              <a>A Empresa</a>
+              <a></a>
             </Link>
             
             <Link href="/vendedores">
-              <a>RH</a>
+              <a></a>
             </Link>
 
             <Link href="/orcamento">
-              <a>E-Social</a>
+              <a></a>
             </Link>
  
           </nav>
@@ -111,19 +111,19 @@ export const Header = () => {
             </li>
             <li onClick={closeMenu}>
               <Link href="/empresa">
-                <a>A Empresa</a>
+                <a></a>
               </Link>
             </li>
 
             <li onClick={closeMenu}>
               <Link href="/vendedores">
-                <a>Contato</a>
+                <a></a>
               </Link>
             </li>
           
             <li onClick={closeMenu}>
               <Link href="/orcamento#zbwid-1579615">
-                <a>Orçamento</a>
+                <a></a>
               </Link>
             </li>
             <li onClick={agendarConsultaMenu}>
