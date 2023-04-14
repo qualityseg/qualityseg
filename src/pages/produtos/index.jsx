@@ -19,24 +19,24 @@ export default function Tratamentos() {
         <title>Produtos | Materiais Elétricos - Eletro Santa Clara</title>
         <meta
           name="description"
-          content="As melhores marcas. Produtos certificados e qualificados"
+          content="Central de Controle BI"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador"
+          content=" "
         />
         <meta name="author" content=" Eletro Santa Clara" />
       </Head>
 
       <div>
-        <HeaderPage subtitle="As melhores marcas" title="Produtos Certificados." />
+        <HeaderPage subtitle="Analytics Quality Seg" title=" " />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
             src="/images/prod_1.png"
-            alt="Chuveiros"
+            alt="Controle de uso da frota"
             width="350"
             height="279"
             left
