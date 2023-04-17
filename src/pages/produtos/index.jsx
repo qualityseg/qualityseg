@@ -66,10 +66,10 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Fios e Cabos</h3>
+          <h3>CHECKLIST PARA ABERTURA DE CAT (S2210)</h3>
           <div className={styles.description}>
             <p>
-            Fios e cabos elétricos certificados pelo INMETRO. Garanta a segurança da sua obra!
+            
             </p>
             <p>
              
@@ -86,10 +86,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Conduletes</h3>
+          <h3>Relatório de envio de Ordem de Serviço</h3>
           <div className={styles.description}>
             <p>
-            Se é de conexão e condução que voê precisa, nós dispomos de toda linha de conduletes e acessórios.
+            
             </p>
           </div>
         </div>
@@ -104,7 +104,7 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Disjuntores</h3>
+          <h3>Dados para elaboração dos programas PRG - PCMSO</h3>
           <div className={styles.description}>
             <p>
             A palavra chave desde a linha residêncial até à Industra 4.0 é <strong2>Segurança</strong2>. Por isso dispomos de toda linha de disjuntores, disjuntor-motor, contatores e relês das mais conceituadas marcas do mercado.
@@ -125,10 +125,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Eletrocalhas e Perfilados</h3>
+          <h3>PPP Perfil Profissiográfico Previdenciário</h3>
           <div className={styles.description}>
             <p>
-            Ótimas soluções para ambientes que precisam de uma solução pratica e economica para a condução de fios e cabos. Por isso temos toda linha de eletrocalhas, perfilados e acessórios.
+            
             </p>
           </div>
         </div>
@@ -141,10 +141,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Alta Tensão</h3>
+          <h3>Formulário para Envio do E-Social</h3>
           <div className={styles.description}>
             <p>
-            Falou de força bruta conte com a gente. Média e Alta Tensão é o nosso DNA. Transformadores, cabos multiplexados, chaves e acessórios.
+            
             </p>
           </div>
         </div>
@@ -157,10 +157,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Interruptores e Tomadas</h3>
+          <h3>Pedido de Compra</h3>
           <div className={styles.description}>
             <p>
-            Pensou em um ótimo acabamento com qualidade e estilo você encontra aqui! Diversos modelos de interruptores e tomadas.
+            
             </p>
           </div>
         </div>
@@ -173,10 +173,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Lâmpadas</h3>
+          <h3> Formulário de ... </h3>
           <div className={styles.description}>
             <p>
-            Seja qual for o ambiente, resdêncial ou industrial uma ótima e econômica iluminação faz toda a diferença. Por isso temos toda linha de lâmpadas, reatores e acessórios que atendem do residêncial ao industrial.
+            ...
             </p>
           </div>
         </div>
@@ -189,10 +189,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Luminárias</h3>
+          <h3>Formulário de ...</h3>
           <div className={styles.description}>
             <p>
-            Pra quem não abre mão da elegância e além de tudo ter segurança e economia em sua residência. Toda linha de luminárias e plafons a pronta entrega.
+            ...
             </p>
           </div>
         </div>
@@ -205,10 +205,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Lustres</h3>
+          <h3>Formulário de ...</h3>
           <div className={styles.description}>
             <p>
-            Quer dar um toque de elegância e beleza ao seu lar? Conte com a grande variedade de lustres e pendentes.
+            ...
             </p>
           </div>
         </div>
@@ -221,10 +221,10 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Painéis de montagem</h3>
+          <h3>Formulário de ...</h3>
           <div className={styles.description}>
             <p>
-            Painéis de montagem e acessórios.
+            ...
             </p>
           </div>
         </div>
@@ -245,17 +245,17 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage src="/images/prod_11.png" alt="Toda linha de plugs e tomadas industriais." width="350" height="279" left />
-          <h3>Plugs e tomadas industriais</h3>
+          <h3>Formulário de ...</h3>
           <div className={styles.description}>
             <p>
-            Toda linha de plugs e tomadas industriais.
+            ...
             </p>
           </div>
         </div>
       </main>
 
       <section className={styles.images}>
-        <Title title="Material Elétrico é na Eletro Santa Clara" subtitle="Qualidade é Nosso Destaque" />
+        <Title title="-" subtitle="-" />
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
