@@ -46,8 +46,8 @@ export default function Tratamentos() {
           />
             </a>
           </Link>
-
-          <h3>Controle de uso da frota</h3>
+          <h3>ORDEM DE SERVIÇO - CONSULTA</h3>
+          <h3>ORDEM DE SERVIÇO - CONSULTA</h3>
           <div className={styles.description}>
             <p>
             
