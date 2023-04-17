@@ -46,8 +46,8 @@ export default function Tratamentos() {
           />
             </a>
           </Link>
-          <h3>ORDEM DE SERVIÇO - CONSULTA</h3>
-          <h3>ORDEM DE SERVIÇO - CONSULTA</h3>
+          <h3>ORDEM DE SERVIÇO - CONSULTA BI</h3>
+          <h3>ORDEM DE SERVIÇO - BAIXAR EM EXCEL </h3>
           <div className={styles.description}>
             <p>
             
