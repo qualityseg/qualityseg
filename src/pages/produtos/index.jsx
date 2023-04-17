@@ -107,7 +107,7 @@ export default function Tratamentos() {
           <h3>Dados para elaboração dos programas PRG - PCMSO</h3>
           <div className={styles.description}>
             <p>
-            A palavra chave desde a linha residêncial até à Industra 4.0 é <strong2>Segurança</strong2>. Por isso dispomos de toda linha de disjuntores, disjuntor-motor, contatores e relês das mais conceituadas marcas do mercado.
+            ...
             </p>
             <p>
               
@@ -254,67 +254,7 @@ export default function Tratamentos() {
         </div>
       </main>
 
-      <section className={styles.images}>
-        <Title title="-" subtitle="-" />
-
-        <ul className={`${styles.imagesContainer} mainContainer`}>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto1.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto2.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto3.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto4.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto5.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto6.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-        </ul>
-      </section>
-
+      
       <Footer />
     </>
   );
