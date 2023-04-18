@@ -46,8 +46,10 @@ export default function Tratamentos() {
           />
             </a>
           </Link>
-          <h2>ORDEM DE SERVIÇO - CONSULTA BI</h2>
+          
           <h3>ORDEM DE SERVIÇO - BAIXAR EM EXCEL </h3>
+
+          <h2>ORDEM DE SERVIÇO - CONSULTA BI</h2>
           <div className={styles.description}>
             <p>
             
