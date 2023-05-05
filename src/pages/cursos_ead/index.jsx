@@ -41,7 +41,7 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Chuveiros</h3>
+          <h3>Curso NR12</h3>
           <div className={styles.description}>
             <p>
             Para transformar os seus banhos em momentos de puro relaxamento e descanso dispomos de toda linha de chuveiros e duchas.
