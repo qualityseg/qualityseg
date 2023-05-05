@@ -35,7 +35,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/prod_1.png"
+            src="/images/prod_1.webp"
             alt="Chuveiros"
             width="350"
             height="279"
